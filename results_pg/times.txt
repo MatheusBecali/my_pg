@@ -1,0 +1,90 @@
+S_300HL_100e:
+
+Tempo de Execucao: 7608.94
+porcentagem de acertos no treinamento = 89.12%
+porcentagem de acertos no teste = 89.73%
+
+S_200HL_100e:
+
+Tempo de Execucao: 5382.59
+porcentagem de acertos no treinamento = 89.15%
+porcentagem de acertos no teste = 89.84%
+
+S_100HL_100e:
+
+Tempo de Execucao: 3304.11
+porcentagem de acertos no treinamento = 89.18%
+porcentagem de acertos no teste = 89.89%
+
+SM_300HL_100e:
+
+Tempo de Execucao: 8827.15
+porcentagem de acertos no treinamento = 94.37%
+porcentagem de acertos no teste = 94.14%
+
+SM_200HL_100e:
+
+Tempo de Execucao: 6240.75
+porcentagem de acertos no treinamento = 94.58%
+porcentagem de acertos no teste = 94.52%
+
+SM_100HL_100e:
+
+Tempo de Execucao: 3718.60
+porcentagem de acertos no treinamento = 94.89%
+porcentagem de acertos no teste = 94.65%
+
+AG_300HL_100e:
+
+Tempo de Execucao: 8682.42
+porcentagem de acertos no treinamento = 95.19%
+porcentagem de acertos no teste = 94.84%
+
+AG_200HL_100e:
+
+Tempo de Execucao: 6271.35
+porcentagem de acertos no treinamento = 94.88%
+porcentagem de acertos no teste = 94.72%
+
+AG_100HL_100e:
+
+Tempo de Execucao: 3742.94
+porcentagem de acertos no treinamento = 94.13%
+porcentagem de acertos no teste = 93.92%
+
+RP_300HL_100e:
+
+Tempo de Execucao: 9739.17
+porcentagem de acertos no treinamento = 98.68%
+porcentagem de acertos no teste = 97.63%
+
+RP_200HL_100e:
+
+Tempo de Execucao: 6938.55
+porcentagem de acertos no treinamento = 98.45%
+porcentagem de acertos no teste = 97.38%
+
+RP_100HL_100e:
+
+Tempo de Execucao: 4107.94
+porcentagem de acertos no treinamento = 97.80%
+porcentagem de acertos no teste = 97.17%
+
+Adam_300HL_100e:
+
+Tempo de Execucao: 12334.39
+porcentagem de acertos no treinamento = 99.20%
+porcentagem de acertos no teste = 98.07%
+
+Adam_200HL_100e:
+
+Tempo de Execucao: 8548.00
+porcentagem de acertos no treinamento = 98.89%
+porcentagem de acertos no teste = 97.65%
+
+Adam_100HL_100e:
+
+Tempo de Execucao: 4975.84
+porcentagem de acertos no treinamento = 98.40%
+porcentagem de acertos no teste = 97.27%
+
